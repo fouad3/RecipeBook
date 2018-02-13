@@ -19,24 +19,27 @@ Single page application featuring favorite recipes you can edit, delete and add 
 
 
 ## How to Run Project
+1-clone or download this repository
 
-1-Navigate to the project directory by using the following command:
+2-Navigate to the project folder by using the following command:
 
 ```
 cd RecipeBook
 ```
 
-2-Download all necessary packages by using the following command:
+3-Download all necessary packages by using the following command:
 ```
 npm install
 ```
 
-3-Run the development server by using the folowing command:
+4-Run the development server by using the folowing command:
 ```
 ng serve
 ```
-4-open your browser and visit  http://localhost:4200/
-5-you can sign in to the app using this account (email: test@test.com, password: test12345) 
+5-open your browser and visit  http://localhost:4200/
+
+6-you can sign in to the app using this account (email: test@test.com, password: test12345) 
+
 
 ## Copyright and License
 - supplied without rights information contributed by [Udemy](https://www.udemy.com) and [Maximilian Schwarzmüller](https://www.udemy.com/user/maximilian-schwarzmuller)
