@@ -13,14 +13,14 @@ Single page application featuring favorite recipes you can edit, delete and add 
 
 ## Required Libraries and Dependencies
 * [Node.js](https://nodejs.org/en/): require Node 6.9.0 or higher, together with NPM 3 or higher.
-* [Angular CLI](https://cli.angular.io/): Make sure you use the latest version of the CLI (upgrade guide below)
-### How to upgrade the CLI
-Run the below commands - only use "sudo" on Mac/ Linux.
-```
-sudo npm uninstall -g angular-cli @angular/cli
-npm cache clean --force
-sudo npm install -g @angular/cli
-```
+* [Angular CLI](https://cli.angular.io/): Make sure you install the latest version of the CLI.
+    How to upgrade the CLI
+    Run the below commands - only use "sudo" on Mac/ Linux.
+    ```
+    sudo npm uninstall -g angular-cli @angular/cli
+    npm cache clean --force
+    sudo npm install -g @angular/cli
+    ```
 
 ## How to Run Project
 1-clone or download this repository
