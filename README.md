@@ -38,7 +38,7 @@ ng serve
 ```
 5-open your browser and visit  http://localhost:4200/
 
-6-you can sign in to the app using this account (email: test@test.com, password: test12345) 
+6-you can sign in to the app using this account (Email: test@test.com, Password: test12345) 
 
 
 ## Copyright and License
