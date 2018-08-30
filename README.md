@@ -14,6 +14,7 @@ Single page application featuring favorite recipes you can edit, delete and add 
 ## Technologies
 * [Angular 5](https://angular.io/) (JavaScript framework)
 * [ngrx](https://github.com/ngrx) (pattern like redux for state management)
+* [firebase](https://firebase.google.com) (fro storing backend data)
 * [Bootstrap 3](https://getbootstrap.com/docs/3.3/)  (for responsive Design)
 
 ## Required Libraries and Dependencies
