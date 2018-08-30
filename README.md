@@ -3,6 +3,7 @@
 
 ## Table of contents
 - [Description](#description)
+- [Technologies](#technologies)
 - [Required Libraries and Dependencies](#required-libraries-and-dependencies)
 - [How to Run Project](#how-to-run-project)
 - [Copyright and license](#copyright-and-license)
@@ -10,6 +11,10 @@
 ## Description
 Single page application featuring favorite recipes you can edit, delete and add them and you can add recipe's ingredients to the shopping list and after you finish editing your recipes and shopping list you can save your data and fetch them, this project is a part of the Udemy's [Angular 5 (formerly Angular2) – The Complete Guide](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/overview).
 
+## Technologies
+* [Angular 5](https://angular.io/) (JavaScript framework)
+* [ngrx](https://github.com/ngrx) (pattern like redux for state management)
+* [Bootstrap 3](https://getbootstrap.com/docs/3.3/)  (for responsive Design)
 
 ## Required Libraries and Dependencies
 * [Node.js](https://nodejs.org/en/): require Node 6.9.0 or higher, together with NPM 3 or higher.
